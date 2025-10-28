@@ -47,6 +47,7 @@ public class Main {
             }
 
         }while(pilihan != 4);
-
+        
+        input.close();
     }
 }
