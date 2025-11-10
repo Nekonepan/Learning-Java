@@ -19,7 +19,7 @@ public class Main {
             System.out.println("Nama Produk : ");
             String nama = input.nextLine();
 
-            System.out.println("Nama Produk :");
+            System.out.println("Harga Produk :");
             double harga = input.nextInt();
 
             Produk produk;
