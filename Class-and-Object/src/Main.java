@@ -1,5 +1,5 @@
 // Membuat class sebagai template
-class Mahasiswa {
+jJclass Mahasiswa {
   String nama;
   String NIM;
   String jurusan;
