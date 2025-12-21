@@ -1,3 +1,5 @@
+package Constructor.src;
+
 // Class  Mahasiswa
 class Mahasiswa{
   String nama;
