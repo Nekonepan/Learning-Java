@@ -1,5 +1,3 @@
-package GameCharacter;
-
 public class Main {
     public static void main(String[] args) {
         // Langkah 1: Buat objek Raiden
