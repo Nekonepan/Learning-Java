@@ -1,4 +1,4 @@
-package OOP2;
+package OOP1.src;
 
 public class Mahasiswa {
     private String nama;
