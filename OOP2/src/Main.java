@@ -1,4 +1,4 @@
-package OOP1.src;
+package OOP2.src;
 
 import java.util.Scanner;
 
