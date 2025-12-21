@@ -1,5 +1,3 @@
-package NovelDetektif;
-
 public class NovelDetektif {
     private String judul;
     private String namaPengarang;

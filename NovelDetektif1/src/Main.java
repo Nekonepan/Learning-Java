@@ -1,5 +1,3 @@
-package NovelDetektif;
-
 public class Main {
     public static void main(String[] args) {
         NovelDetektif n1 = new NovelDetektif("Detektif Conan", "Gosho Aoyama", 1994, 85000);
